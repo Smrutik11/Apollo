@@ -3,9 +3,9 @@ from prettytable import PrettyTable
 
 # Database configuration
 DB_CONFIG = {
-    'user': 'root',
-    'password': 'Smruti@123',
-    'host': '127.0.0.1',
+    'user': 'MySQL_username',
+    'password': 'MySQL_passward',
+    'host': 'host',
     'database': 'apollo_db',
 }
 
